@@ -16,6 +16,11 @@ Este repositório contém meus projetos pessoais na área de **Data Science**, d
 - **Tecnologias**: Excel, Probabilidade, Tabelas Dinâmicas.
 - [Acesse o projeto](https://github.com/rodolfo-lovera/projexcel-ClassificadorNaives)
 
+### 3. **Projeto de Otimização - Compra de Insumos para produção de Suco**
+- **Descrição**: Desenvolvimento de um modelo de otimização para compra de insumos utilizando **Excel**. Esse projeto mostra como transformar decisões de negocios em modelos matemáticos lineares para buscar melhores combinações de custo com algumas restrições impostas.
+- **Tecnologias**: Excel, Modelagem Matemática, Solver.
+- [Acesse o projeto](https://github.com/rodolfo-lovera/projexcel-modelotimizacao1/tree/main)  
+
 ## 📝 Contribuições
 
 Fique à vontade para abrir **issues** ou enviar **pull requests** para melhorias ou sugestões. Toda contribuição é bem-vinda!
