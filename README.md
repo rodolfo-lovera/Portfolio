@@ -24,7 +24,13 @@ Este repositório contém meus projetos pessoais na área de **Data Science**, d
 ### 4. **Projeto de Visualização de dados - Dashboard de Vendas de Planos **
 - **Descrição**: um dashboard de vendas de planos para o Xbox. O arquivo está estruturado para oferecer uma análise visual e organizada das vendas de planos anuais e outros insights relevantes.
 - **Tecnologias**: Excel,
-- [Acesse o projeto](https://github.com/rodolfo-lovera/DashboardVendasXbox)
+- [Acesse o projeto](https://github.com/rodolfo-lovera/DashboardVendasXbox)v
+
+### 5. **Validação do número do cartão de crédito - Usando GitHub Copilot **
+- **Descrição**: Um projetos pequeno para experimentar o Github Copilot.
+- **Tecnologias**: VS Code, GitHub Copilot
+- [Acesse o projeto](https://github.com/rodolfo-lovera/GitHubCopilotTeste)
+
 ## 📝 Contribuições
 
 Fique à vontade para abrir **issues** ou enviar **pull requests** para melhorias ou sugestões. Toda contribuição é bem-vinda!
