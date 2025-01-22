@@ -31,6 +31,12 @@ Este repositório contém meus projetos pessoais na área de **Data Science**, d
 - **Tecnologias**: VS Code, GitHub Copilot
 - [Acesse o projeto](https://github.com/rodolfo-lovera/GitHubCopilotTeste)
 
+### 6. **Relatório de Análise de Financeira **
+- **Descrição**: Este projeto consiste na análise de dados de vendas utilizando o Power BI. O objetivo é fornecer insights valiosos sobre o desempenho das vendas, identificar tendências e oportunidades de melhoria..
+- **Tecnologias**: Power BI, Excel
+- [Acesse o projeto](https://github.com/rodolfo-lovera/AnaliseVendasPowerBI)
+  
+
 ## 📝 Contribuições
 
 Fique à vontade para abrir **issues** ou enviar **pull requests** para melhorias ou sugestões. Toda contribuição é bem-vinda!
