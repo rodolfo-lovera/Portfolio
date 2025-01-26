@@ -35,7 +35,11 @@ Este repositório contém meus projetos pessoais na área de **Data Science**, d
 - **Descrição**: Este projeto consiste na análise de dados de vendas utilizando o Power BI. O objetivo é fornecer insights valiosos sobre o desempenho das vendas, identificar tendências e oportunidades de melhoria..
 - **Tecnologias**: Power BI, Excel
 - [Acesse o projeto](https://github.com/rodolfo-lovera/AnaliseVendasPowerBI)
-  
+
+### 7. **Relatório de Vendas e Lucros detalhados por País e Ano **
+- **Descrição**: Este projeto consiste na análise de dados de vendas e lucro segmentando os dados por ano e país onde ocorreu a venda utilizando o Power BI. O objetivo é fornecer insights valiosos sobre o desempenho das vendas e lucro com foco em gerar tendências e oportunidades de melhoria. Os visuais foram prototipados no Figma e usados como tela de fundo para cada página do relatório
+- **Tecnologias**: Power BI, Excel, Figma
+- [Acesse o projeto](https://github.com/rodolfo-lovera/PowerBIRelatorioVendasLucros)
 
 ## 📝 Contribuições
 
